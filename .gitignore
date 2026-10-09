@@ -1,0 +1,22 @@
+# Dados brutos e intermediarios (pesados e reproduziveis pelos scripts de coleta)
+data/raw/**
+data/interim/**
+!data/raw/**/.gitkeep
+!data/interim/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Segredos e ambiente
+.env
+*.key
+
+# Sistema e editores
+.DS_Store
+.vscode/
+.idea/

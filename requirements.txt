@@ -1,0 +1,12 @@
+pandas
+numpy
+requests
+sidrapy
+basedosdados
+openpyxl
+pyyaml
+matplotlib
+seaborn
+geopandas
+jupyter
+pytest
