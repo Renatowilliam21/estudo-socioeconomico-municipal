@@ -41,7 +41,10 @@ def montar(df):
     soma = sum(largo[f"vab_{n}_mil_reais"] for n in SETORES.values())
     largo["dif_soma_setores_pct"] = ((largo["vab_total_mil_reais"] - soma) / largo["vab_total_mil_reais"] * 100).round(2)
     pcts = [f"pct_{n}" for n in SETORES.values()]
-    largo["setor_principal"] = largo[pcts].idxmax(axis=1).str.replace("pct_", "", regex=False)
+    tem = largo[pcts].notna().any(axis=1)
+    largo["setor_principal"] = pd.NA
+    largo.loc[tem, "setor_principal"] = (largo.loc[tem, pcts].idxmax(axis=1)
+                                         .str.replace("pct_", "", regex=False))
     largo["periodo"] = largo["periodo"].astype(int)
     return largo.sort_values(["localidade_id", "periodo"])
 
@@ -55,19 +58,26 @@ def main():
     print(f"Salvo: {SAIDA} ({len(out)} linhas)\n")
 
     pcts = [f"pct_{n}" for n in SETORES.values()]
-    ultimo = out["periodo"].max()
+    com_setor = out[out[pcts].notna().any(axis=1)]
+    periodos_sem = sorted(set(out["periodo"]) - set(com_setor["periodo"]))
+    if periodos_sem:
+        print("ATENCAO: a fonte nao trouxe detalhe por setor para os periodos "
+              f"{periodos_sem} (so PIB total). Eles ficam de fora das tabelas abaixo.\n")
+
+    ultimo = com_setor["periodo"].max()
     print(f"Peso dos setores no valor adicionado, {ultimo} (% do VAB total)")
     tab = out[out["periodo"] == ultimo].set_index("localidade")[["pib_mil_reais", *pcts]]
     tab.columns = ["PIB (mil R$)", "Agro", "Industria", "Servicos", "Adm. publica"]
     print(tab.sort_values("Adm. publica", ascending=False).to_string())
 
-    print(f"\nSerie de Boa Viagem (% do VAB total)")
-    serie = out[out["localidade_id"] == codigo].set_index("periodo")[pcts + ["setor_principal"]]
+    print("\nSerie de Boa Viagem (% do VAB total)")
+    serie = com_setor[com_setor["localidade_id"] == codigo].set_index("periodo")[pcts + ["setor_principal"]]
     serie.columns = ["Agro", "Industria", "Servicos", "Adm. publica", "Maior setor"]
     print(serie.to_string())
 
-    maior = out["dif_soma_setores_pct"].abs().max()
-    print(f"\nConferencia: maior diferenca entre VAB total e soma dos 4 setores = {maior}% (esperado perto de 0)")
+    maior = com_setor["dif_soma_setores_pct"].abs().max()
+    print(f"\nConferencia ({len(com_setor)} linhas com setores): maior diferenca entre VAB total "
+          f"e soma dos 4 setores = {maior}% (esperado perto de 0)")
 
 
 if __name__ == "__main__":
