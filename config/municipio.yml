@@ -6,7 +6,7 @@ municipio:
 
 comparacao:
   # Codigos IBGE de municipios vizinhos ou da mesma regiao para comparacao.
-  municipios: []
+  municipios: [2307635, 2311405, 2302800, 2308609, 2313203, 2310506]
   incluir_media_estadual: true
   incluir_media_nacional: true
 
