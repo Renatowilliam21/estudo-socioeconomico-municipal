@@ -1,0 +1,397 @@
+tabela,variavel_id,variavel,unidade,localidade_id,localidade,Existência de ligação à rede geral de distribuição de água e principal forma de abastecimento de água,periodo,valor_original,valor
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2302404,Boa Viagem (CE),Total,2022,18079,18079.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2307635,Madalena (CE),Total,2022,5603,5603.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2311405,Quixeramobim (CE),Total,2022,28609,28609.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2311306,Quixadá (CE),Total,2022,28971,28971.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2301851,Banabuiú (CE),Total,2022,5585,5585.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2303931,Choró (CE),Total,2022,3997,3997.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2305266,Ibaretama (CE),Total,2022,4021,4021.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2302800,Canindé (CE),Total,2022,25279,25279.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2308609,Monsenhor Tabosa (CE),Total,2022,5827,5827.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2313203,Tamboril (CE),Total,2022,8624,8624.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2310506,Pedra Branca (CE),Total,2022,14235,14235.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2302404,Boa Viagem (CE),Possui ligação à rede geral e a utiliza como forma principal,2022,12905,12905.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2307635,Madalena (CE),Possui ligação à rede geral e a utiliza como forma principal,2022,3409,3409.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2311405,Quixeramobim (CE),Possui ligação à rede geral e a utiliza como forma principal,2022,21924,21924.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2311306,Quixadá (CE),Possui ligação à rede geral e a utiliza como forma principal,2022,22061,22061.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2301851,Banabuiú (CE),Possui ligação à rede geral e a utiliza como forma principal,2022,4773,4773.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2303931,Choró (CE),Possui ligação à rede geral e a utiliza como forma principal,2022,1887,1887.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2305266,Ibaretama (CE),Possui ligação à rede geral e a utiliza como forma principal,2022,2207,2207.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2302800,Canindé (CE),Possui ligação à rede geral e a utiliza como forma principal,2022,16538,16538.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2308609,Monsenhor Tabosa (CE),Possui ligação à rede geral e a utiliza como forma principal,2022,3894,3894.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2313203,Tamboril (CE),Possui ligação à rede geral e a utiliza como forma principal,2022,6171,6171.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2310506,Pedra Branca (CE),Possui ligação à rede geral e a utiliza como forma principal,2022,7753,7753.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2302404,Boa Viagem (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma",2022,2174,2174.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2307635,Madalena (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma",2022,955,955.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2311405,Quixeramobim (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma",2022,2701,2701.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2311306,Quixadá (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma",2022,750,750.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2301851,Banabuiú (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma",2022,76,76.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2303931,Choró (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma",2022,397,397.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2305266,Ibaretama (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma",2022,57,57.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2302800,Canindé (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma",2022,1553,1553.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2308609,Monsenhor Tabosa (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma",2022,652,652.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2313203,Tamboril (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma",2022,775,775.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2310506,Pedra Branca (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma",2022,2020,2020.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2302404,Boa Viagem (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano",2022,1542,1542.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2307635,Madalena (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano",2022,692,692.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2311405,Quixeramobim (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano",2022,1158,1158.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2311306,Quixadá (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano",2022,186,186.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2301851,Banabuiú (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano",2022,4,4.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2303931,Choró (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano",2022,225,225.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2305266,Ibaretama (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano",2022,8,8.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2302800,Canindé (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano",2022,999,999.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2308609,Monsenhor Tabosa (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano",2022,491,491.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2313203,Tamboril (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano",2022,426,426.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2310506,Pedra Branca (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano",2022,1345,1345.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2302404,Boa Viagem (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba",2022,126,126.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2307635,Madalena (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba",2022,44,44.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2311405,Quixeramobim (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba",2022,61,61.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2311306,Quixadá (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba",2022,42,42.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2301851,Banabuiú (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba",2022,1,1.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2303931,Choró (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba",2022,21,21.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2305266,Ibaretama (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba",2022,1,1.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2302800,Canindé (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba",2022,44,44.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2308609,Monsenhor Tabosa (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba",2022,12,12.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2313203,Tamboril (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba",2022,93,93.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2310506,Pedra Branca (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba",2022,88,88.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2302404,Boa Viagem (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina",2022,6,6.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2307635,Madalena (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina",2022,3,3.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2311405,Quixeramobim (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina",2022,10,10.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2311306,Quixadá (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina",2022,2,2.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2301851,Banabuiú (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina",2022,1,1.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2303931,Choró (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina",2022,-,
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2305266,Ibaretama (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina",2022,-,
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2302800,Canindé (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina",2022,37,37.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2308609,Monsenhor Tabosa (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina",2022,2,2.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2313203,Tamboril (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina",2022,2,2.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2310506,Pedra Branca (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina",2022,3,3.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2302404,Boa Viagem (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa",2022,37,37.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2307635,Madalena (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa",2022,112,112.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2311405,Quixeramobim (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa",2022,49,49.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2311306,Quixadá (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa",2022,88,88.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2301851,Banabuiú (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa",2022,3,3.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2303931,Choró (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa",2022,11,11.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2305266,Ibaretama (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa",2022,1,1.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2302800,Canindé (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa",2022,22,22.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2308609,Monsenhor Tabosa (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa",2022,49,49.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2313203,Tamboril (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa",2022,4,4.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2310506,Pedra Branca (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa",2022,58,58.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2302404,Boa Viagem (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada",2022,47,47.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2307635,Madalena (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada",2022,33,33.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2311405,Quixeramobim (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada",2022,63,63.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2311306,Quixadá (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada",2022,116,116.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2301851,Banabuiú (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada",2022,16,16.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2303931,Choró (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada",2022,110,110.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2305266,Ibaretama (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada",2022,29,29.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2302800,Canindé (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada",2022,91,91.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2308609,Monsenhor Tabosa (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada",2022,19,19.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2313203,Tamboril (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada",2022,71,71.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2310506,Pedra Branca (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada",2022,92,92.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2302404,Boa Viagem (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés",2022,390,390.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2307635,Madalena (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés",2022,57,57.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2311405,Quixeramobim (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés",2022,1336,1336.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2311306,Quixadá (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés",2022,81,81.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2301851,Banabuiú (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés",2022,44,44.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2303931,Choró (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés",2022,29,29.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2305266,Ibaretama (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés",2022,10,10.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2302800,Canindé (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés",2022,273,273.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2308609,Monsenhor Tabosa (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés",2022,70,70.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2313203,Tamboril (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés",2022,171,171.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2310506,Pedra Branca (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés",2022,416,416.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2302404,Boa Viagem (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra",2022,26,26.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2307635,Madalena (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra",2022,14,14.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2311405,Quixeramobim (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra",2022,24,24.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2311306,Quixadá (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra",2022,235,235.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2301851,Banabuiú (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra",2022,7,7.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2303931,Choró (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra",2022,1,1.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2305266,Ibaretama (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra",2022,8,8.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2302800,Canindé (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra",2022,87,87.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2308609,Monsenhor Tabosa (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra",2022,9,9.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2313203,Tamboril (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra",2022,8,8.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2310506,Pedra Branca (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra",2022,18,18.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2302404,Boa Viagem (CE),Não possui ligação com a rede geral,2022,3000,3000.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2307635,Madalena (CE),Não possui ligação com a rede geral,2022,1239,1239.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2311405,Quixeramobim (CE),Não possui ligação com a rede geral,2022,3984,3984.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2311306,Quixadá (CE),Não possui ligação com a rede geral,2022,6160,6160.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2301851,Banabuiú (CE),Não possui ligação com a rede geral,2022,736,736.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2303931,Choró (CE),Não possui ligação com a rede geral,2022,1713,1713.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2305266,Ibaretama (CE),Não possui ligação com a rede geral,2022,1757,1757.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2302800,Canindé (CE),Não possui ligação com a rede geral,2022,7188,7188.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2308609,Monsenhor Tabosa (CE),Não possui ligação com a rede geral,2022,1281,1281.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2313203,Tamboril (CE),Não possui ligação com a rede geral,2022,1678,1678.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2310506,Pedra Branca (CE),Não possui ligação com a rede geral,2022,4462,4462.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2302404,Boa Viagem (CE),Não possui ligação com a rede geral - Poço profundo ou artesiano,2022,1007,1007.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2307635,Madalena (CE),Não possui ligação com a rede geral - Poço profundo ou artesiano,2022,516,516.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2311405,Quixeramobim (CE),Não possui ligação com a rede geral - Poço profundo ou artesiano,2022,1818,1818.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2311306,Quixadá (CE),Não possui ligação com a rede geral - Poço profundo ou artesiano,2022,1587,1587.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2301851,Banabuiú (CE),Não possui ligação com a rede geral - Poço profundo ou artesiano,2022,40,40.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2303931,Choró (CE),Não possui ligação com a rede geral - Poço profundo ou artesiano,2022,209,209.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2305266,Ibaretama (CE),Não possui ligação com a rede geral - Poço profundo ou artesiano,2022,77,77.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2302800,Canindé (CE),Não possui ligação com a rede geral - Poço profundo ou artesiano,2022,2839,2839.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2308609,Monsenhor Tabosa (CE),Não possui ligação com a rede geral - Poço profundo ou artesiano,2022,405,405.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2313203,Tamboril (CE),Não possui ligação com a rede geral - Poço profundo ou artesiano,2022,1022,1022.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2310506,Pedra Branca (CE),Não possui ligação com a rede geral - Poço profundo ou artesiano,2022,1210,1210.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2302404,Boa Viagem (CE),"Não possui ligação com a rede geral - Poço raso, freático ou cacimba",2022,428,428.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2307635,Madalena (CE),"Não possui ligação com a rede geral - Poço raso, freático ou cacimba",2022,83,83.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2311405,Quixeramobim (CE),"Não possui ligação com a rede geral - Poço raso, freático ou cacimba",2022,282,282.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2311306,Quixadá (CE),"Não possui ligação com a rede geral - Poço raso, freático ou cacimba",2022,236,236.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2301851,Banabuiú (CE),"Não possui ligação com a rede geral - Poço raso, freático ou cacimba",2022,11,11.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2303931,Choró (CE),"Não possui ligação com a rede geral - Poço raso, freático ou cacimba",2022,258,258.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2305266,Ibaretama (CE),"Não possui ligação com a rede geral - Poço raso, freático ou cacimba",2022,19,19.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2302800,Canindé (CE),"Não possui ligação com a rede geral - Poço raso, freático ou cacimba",2022,786,786.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2308609,Monsenhor Tabosa (CE),"Não possui ligação com a rede geral - Poço raso, freático ou cacimba",2022,60,60.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2313203,Tamboril (CE),"Não possui ligação com a rede geral - Poço raso, freático ou cacimba",2022,203,203.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2310506,Pedra Branca (CE),"Não possui ligação com a rede geral - Poço raso, freático ou cacimba",2022,104,104.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2302404,Boa Viagem (CE),"Não possui ligação com a rede geral - Fonte, nascente ou mina",2022,19,19.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2307635,Madalena (CE),"Não possui ligação com a rede geral - Fonte, nascente ou mina",2022,2,2.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2311405,Quixeramobim (CE),"Não possui ligação com a rede geral - Fonte, nascente ou mina",2022,10,10.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2311306,Quixadá (CE),"Não possui ligação com a rede geral - Fonte, nascente ou mina",2022,18,18.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2301851,Banabuiú (CE),"Não possui ligação com a rede geral - Fonte, nascente ou mina",2022,-,
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2303931,Choró (CE),"Não possui ligação com a rede geral - Fonte, nascente ou mina",2022,6,6.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2305266,Ibaretama (CE),"Não possui ligação com a rede geral - Fonte, nascente ou mina",2022,10,10.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2302800,Canindé (CE),"Não possui ligação com a rede geral - Fonte, nascente ou mina",2022,78,78.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2308609,Monsenhor Tabosa (CE),"Não possui ligação com a rede geral - Fonte, nascente ou mina",2022,15,15.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2313203,Tamboril (CE),"Não possui ligação com a rede geral - Fonte, nascente ou mina",2022,9,9.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2310506,Pedra Branca (CE),"Não possui ligação com a rede geral - Fonte, nascente ou mina",2022,19,19.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2302404,Boa Viagem (CE),Não possui ligação com a rede geral - Carro-pipa,2022,360,360.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2307635,Madalena (CE),Não possui ligação com a rede geral - Carro-pipa,2022,362,362.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2311405,Quixeramobim (CE),Não possui ligação com a rede geral - Carro-pipa,2022,421,421.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2311306,Quixadá (CE),Não possui ligação com a rede geral - Carro-pipa,2022,1289,1289.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2301851,Banabuiú (CE),Não possui ligação com a rede geral - Carro-pipa,2022,327,327.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2303931,Choró (CE),Não possui ligação com a rede geral - Carro-pipa,2022,292,292.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2305266,Ibaretama (CE),Não possui ligação com a rede geral - Carro-pipa,2022,441,441.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2302800,Canindé (CE),Não possui ligação com a rede geral - Carro-pipa,2022,537,537.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2308609,Monsenhor Tabosa (CE),Não possui ligação com a rede geral - Carro-pipa,2022,536,536.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2313203,Tamboril (CE),Não possui ligação com a rede geral - Carro-pipa,2022,110,110.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2310506,Pedra Branca (CE),Não possui ligação com a rede geral - Carro-pipa,2022,1338,1338.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2302404,Boa Viagem (CE),Não possui ligação com a rede geral - Água da chuva armazenada,2022,295,295.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2307635,Madalena (CE),Não possui ligação com a rede geral - Água da chuva armazenada,2022,76,76.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2311405,Quixeramobim (CE),Não possui ligação com a rede geral - Água da chuva armazenada,2022,187,187.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2311306,Quixadá (CE),Não possui ligação com a rede geral - Água da chuva armazenada,2022,1036,1036.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2301851,Banabuiú (CE),Não possui ligação com a rede geral - Água da chuva armazenada,2022,60,60.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2303931,Choró (CE),Não possui ligação com a rede geral - Água da chuva armazenada,2022,510,510.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2305266,Ibaretama (CE),Não possui ligação com a rede geral - Água da chuva armazenada,2022,403,403.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2302800,Canindé (CE),Não possui ligação com a rede geral - Água da chuva armazenada,2022,629,629.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2308609,Monsenhor Tabosa (CE),Não possui ligação com a rede geral - Água da chuva armazenada,2022,101,101.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2313203,Tamboril (CE),Não possui ligação com a rede geral - Água da chuva armazenada,2022,202,202.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2310506,Pedra Branca (CE),Não possui ligação com a rede geral - Água da chuva armazenada,2022,767,767.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2302404,Boa Viagem (CE),"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés",2022,736,736.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2307635,Madalena (CE),"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés",2022,138,138.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2311405,Quixeramobim (CE),"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés",2022,1093,1093.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2311306,Quixadá (CE),"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés",2022,1735,1735.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2301851,Banabuiú (CE),"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés",2022,271,271.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2303931,Choró (CE),"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés",2022,417,417.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2305266,Ibaretama (CE),"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés",2022,750,750.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2302800,Canindé (CE),"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés",2022,1932,1932.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2308609,Monsenhor Tabosa (CE),"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés",2022,61,61.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2313203,Tamboril (CE),"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés",2022,79,79.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2310506,Pedra Branca (CE),"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés",2022,920,920.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2302404,Boa Viagem (CE),Não possui ligação com a rede geral - Outra,2022,155,155.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2307635,Madalena (CE),Não possui ligação com a rede geral - Outra,2022,62,62.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2311405,Quixeramobim (CE),Não possui ligação com a rede geral - Outra,2022,173,173.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2311306,Quixadá (CE),Não possui ligação com a rede geral - Outra,2022,259,259.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2301851,Banabuiú (CE),Não possui ligação com a rede geral - Outra,2022,27,27.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2303931,Choró (CE),Não possui ligação com a rede geral - Outra,2022,21,21.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2305266,Ibaretama (CE),Não possui ligação com a rede geral - Outra,2022,57,57.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2302800,Canindé (CE),Não possui ligação com a rede geral - Outra,2022,387,387.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2308609,Monsenhor Tabosa (CE),Não possui ligação com a rede geral - Outra,2022,103,103.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2313203,Tamboril (CE),Não possui ligação com a rede geral - Outra,2022,53,53.0
+6803,381,Domicílios particulares permanentes ocupados,Unidades,2310506,Pedra Branca (CE),Não possui ligação com a rede geral - Outra,2022,104,104.0
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2302404,Boa Viagem (CE),Total,2022,100.00,100.0
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2307635,Madalena (CE),Total,2022,100.00,100.0
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2311405,Quixeramobim (CE),Total,2022,100.00,100.0
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2311306,Quixadá (CE),Total,2022,100.00,100.0
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2301851,Banabuiú (CE),Total,2022,100.00,100.0
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2303931,Choró (CE),Total,2022,100.00,100.0
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2305266,Ibaretama (CE),Total,2022,100.00,100.0
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2302800,Canindé (CE),Total,2022,100.00,100.0
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2308609,Monsenhor Tabosa (CE),Total,2022,100.00,100.0
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2313203,Tamboril (CE),Total,2022,100.00,100.0
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2310506,Pedra Branca (CE),Total,2022,100.00,100.0
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2302404,Boa Viagem (CE),Possui ligação à rede geral e a utiliza como forma principal,2022,71.38,71.38
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2307635,Madalena (CE),Possui ligação à rede geral e a utiliza como forma principal,2022,60.84,60.84
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2311405,Quixeramobim (CE),Possui ligação à rede geral e a utiliza como forma principal,2022,76.63,76.63
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2311306,Quixadá (CE),Possui ligação à rede geral e a utiliza como forma principal,2022,76.15,76.15
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2301851,Banabuiú (CE),Possui ligação à rede geral e a utiliza como forma principal,2022,85.46,85.46
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2303931,Choró (CE),Possui ligação à rede geral e a utiliza como forma principal,2022,47.21,47.21
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2305266,Ibaretama (CE),Possui ligação à rede geral e a utiliza como forma principal,2022,54.89,54.89
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2302800,Canindé (CE),Possui ligação à rede geral e a utiliza como forma principal,2022,65.42,65.42
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2308609,Monsenhor Tabosa (CE),Possui ligação à rede geral e a utiliza como forma principal,2022,66.83,66.83
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2313203,Tamboril (CE),Possui ligação à rede geral e a utiliza como forma principal,2022,71.56,71.56
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2310506,Pedra Branca (CE),Possui ligação à rede geral e a utiliza como forma principal,2022,54.46,54.46
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2302404,Boa Viagem (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma",2022,12.03,12.03
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2307635,Madalena (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma",2022,17.04,17.04
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2311405,Quixeramobim (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma",2022,9.44,9.44
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2311306,Quixadá (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma",2022,2.59,2.59
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2301851,Banabuiú (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma",2022,1.36,1.36
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2303931,Choró (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma",2022,9.93,9.93
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2305266,Ibaretama (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma",2022,1.42,1.42
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2302800,Canindé (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma",2022,6.14,6.14
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2308609,Monsenhor Tabosa (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma",2022,11.19,11.19
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2313203,Tamboril (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma",2022,8.99,8.99
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2310506,Pedra Branca (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma",2022,14.19,14.19
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2302404,Boa Viagem (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano",2022,8.53,8.53
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2307635,Madalena (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano",2022,12.35,12.35
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2311405,Quixeramobim (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano",2022,4.05,4.05
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2311306,Quixadá (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano",2022,0.64,0.64
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2301851,Banabuiú (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano",2022,0.07,0.07
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2303931,Choró (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano",2022,5.63,5.63
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2305266,Ibaretama (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano",2022,0.20,0.2
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2302800,Canindé (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano",2022,3.95,3.95
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2308609,Monsenhor Tabosa (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano",2022,8.43,8.43
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2313203,Tamboril (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano",2022,4.94,4.94
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2310506,Pedra Branca (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano",2022,9.45,9.45
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2302404,Boa Viagem (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba",2022,0.70,0.7
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2307635,Madalena (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba",2022,0.79,0.79
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2311405,Quixeramobim (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba",2022,0.21,0.21
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2311306,Quixadá (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba",2022,0.14,0.14
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2301851,Banabuiú (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba",2022,0.02,0.02
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2303931,Choró (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba",2022,0.53,0.53
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2305266,Ibaretama (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba",2022,0.02,0.02
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2302800,Canindé (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba",2022,0.17,0.17
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2308609,Monsenhor Tabosa (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba",2022,0.21,0.21
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2313203,Tamboril (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba",2022,1.08,1.08
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2310506,Pedra Branca (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba",2022,0.62,0.62
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2302404,Boa Viagem (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina",2022,0.03,0.03
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2307635,Madalena (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina",2022,0.05,0.05
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2311405,Quixeramobim (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina",2022,0.03,0.03
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2311306,Quixadá (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina",2022,0.01,0.01
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2301851,Banabuiú (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina",2022,0.02,0.02
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2303931,Choró (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina",2022,-,
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2305266,Ibaretama (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina",2022,-,
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2302800,Canindé (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina",2022,0.15,0.15
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2308609,Monsenhor Tabosa (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina",2022,0.03,0.03
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2313203,Tamboril (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina",2022,0.02,0.02
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2310506,Pedra Branca (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina",2022,0.02,0.02
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2302404,Boa Viagem (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa",2022,0.20,0.2
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2307635,Madalena (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa",2022,2.00,2.0
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2311405,Quixeramobim (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa",2022,0.17,0.17
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2311306,Quixadá (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa",2022,0.30,0.3
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2301851,Banabuiú (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa",2022,0.05,0.05
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2303931,Choró (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa",2022,0.28,0.28
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2305266,Ibaretama (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa",2022,0.02,0.02
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2302800,Canindé (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa",2022,0.09,0.09
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2308609,Monsenhor Tabosa (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa",2022,0.84,0.84
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2313203,Tamboril (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa",2022,0.05,0.05
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2310506,Pedra Branca (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa",2022,0.41,0.41
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2302404,Boa Viagem (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada",2022,0.26,0.26
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2307635,Madalena (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada",2022,0.59,0.59
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2311405,Quixeramobim (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada",2022,0.22,0.22
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2311306,Quixadá (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada",2022,0.40,0.4
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2301851,Banabuiú (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada",2022,0.29,0.29
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2303931,Choró (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada",2022,2.75,2.75
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2305266,Ibaretama (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada",2022,0.72,0.72
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2302800,Canindé (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada",2022,0.36,0.36
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2308609,Monsenhor Tabosa (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada",2022,0.33,0.33
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2313203,Tamboril (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada",2022,0.82,0.82
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2310506,Pedra Branca (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada",2022,0.65,0.65
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2302404,Boa Viagem (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés",2022,2.16,2.16
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2307635,Madalena (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés",2022,1.02,1.02
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2311405,Quixeramobim (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés",2022,4.67,4.67
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2311306,Quixadá (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés",2022,0.28,0.28
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2301851,Banabuiú (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés",2022,0.79,0.79
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2303931,Choró (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés",2022,0.73,0.73
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2305266,Ibaretama (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés",2022,0.25,0.25
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2302800,Canindé (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés",2022,1.08,1.08
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2308609,Monsenhor Tabosa (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés",2022,1.20,1.2
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2313203,Tamboril (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés",2022,1.98,1.98
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2310506,Pedra Branca (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés",2022,2.92,2.92
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2302404,Boa Viagem (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra",2022,0.14,0.14
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2307635,Madalena (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra",2022,0.25,0.25
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2311405,Quixeramobim (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra",2022,0.08,0.08
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2311306,Quixadá (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra",2022,0.81,0.81
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2301851,Banabuiú (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra",2022,0.13,0.13
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2303931,Choró (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra",2022,0.03,0.03
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2305266,Ibaretama (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra",2022,0.20,0.2
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2302800,Canindé (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra",2022,0.34,0.34
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2308609,Monsenhor Tabosa (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra",2022,0.15,0.15
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2313203,Tamboril (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra",2022,0.09,0.09
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2310506,Pedra Branca (CE),"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra",2022,0.13,0.13
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2302404,Boa Viagem (CE),Não possui ligação com a rede geral,2022,16.59,16.59
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2307635,Madalena (CE),Não possui ligação com a rede geral,2022,22.11,22.11
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2311405,Quixeramobim (CE),Não possui ligação com a rede geral,2022,13.93,13.93
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2311306,Quixadá (CE),Não possui ligação com a rede geral,2022,21.26,21.26
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2301851,Banabuiú (CE),Não possui ligação com a rede geral,2022,13.18,13.18
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2303931,Choró (CE),Não possui ligação com a rede geral,2022,42.86,42.86
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2305266,Ibaretama (CE),Não possui ligação com a rede geral,2022,43.70,43.7
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2302800,Canindé (CE),Não possui ligação com a rede geral,2022,28.43,28.43
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2308609,Monsenhor Tabosa (CE),Não possui ligação com a rede geral,2022,21.98,21.98
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2313203,Tamboril (CE),Não possui ligação com a rede geral,2022,19.46,19.46
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2310506,Pedra Branca (CE),Não possui ligação com a rede geral,2022,31.35,31.35
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2302404,Boa Viagem (CE),Não possui ligação com a rede geral - Poço profundo ou artesiano,2022,5.57,5.57
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2307635,Madalena (CE),Não possui ligação com a rede geral - Poço profundo ou artesiano,2022,9.21,9.21
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2311405,Quixeramobim (CE),Não possui ligação com a rede geral - Poço profundo ou artesiano,2022,6.35,6.35
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2311306,Quixadá (CE),Não possui ligação com a rede geral - Poço profundo ou artesiano,2022,5.48,5.48
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2301851,Banabuiú (CE),Não possui ligação com a rede geral - Poço profundo ou artesiano,2022,0.72,0.72
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2303931,Choró (CE),Não possui ligação com a rede geral - Poço profundo ou artesiano,2022,5.23,5.23
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2305266,Ibaretama (CE),Não possui ligação com a rede geral - Poço profundo ou artesiano,2022,1.91,1.91
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2302800,Canindé (CE),Não possui ligação com a rede geral - Poço profundo ou artesiano,2022,11.23,11.23
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2308609,Monsenhor Tabosa (CE),Não possui ligação com a rede geral - Poço profundo ou artesiano,2022,6.95,6.95
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2313203,Tamboril (CE),Não possui ligação com a rede geral - Poço profundo ou artesiano,2022,11.85,11.85
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2310506,Pedra Branca (CE),Não possui ligação com a rede geral - Poço profundo ou artesiano,2022,8.50,8.5
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2302404,Boa Viagem (CE),"Não possui ligação com a rede geral - Poço raso, freático ou cacimba",2022,2.37,2.37
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2307635,Madalena (CE),"Não possui ligação com a rede geral - Poço raso, freático ou cacimba",2022,1.48,1.48
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2311405,Quixeramobim (CE),"Não possui ligação com a rede geral - Poço raso, freático ou cacimba",2022,0.99,0.99
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2311306,Quixadá (CE),"Não possui ligação com a rede geral - Poço raso, freático ou cacimba",2022,0.81,0.81
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2301851,Banabuiú (CE),"Não possui ligação com a rede geral - Poço raso, freático ou cacimba",2022,0.20,0.2
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2303931,Choró (CE),"Não possui ligação com a rede geral - Poço raso, freático ou cacimba",2022,6.45,6.45
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2305266,Ibaretama (CE),"Não possui ligação com a rede geral - Poço raso, freático ou cacimba",2022,0.47,0.47
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2302800,Canindé (CE),"Não possui ligação com a rede geral - Poço raso, freático ou cacimba",2022,3.11,3.11
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2308609,Monsenhor Tabosa (CE),"Não possui ligação com a rede geral - Poço raso, freático ou cacimba",2022,1.03,1.03
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2313203,Tamboril (CE),"Não possui ligação com a rede geral - Poço raso, freático ou cacimba",2022,2.35,2.35
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2310506,Pedra Branca (CE),"Não possui ligação com a rede geral - Poço raso, freático ou cacimba",2022,0.73,0.73
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2302404,Boa Viagem (CE),"Não possui ligação com a rede geral - Fonte, nascente ou mina",2022,0.11,0.11
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2307635,Madalena (CE),"Não possui ligação com a rede geral - Fonte, nascente ou mina",2022,0.04,0.04
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2311405,Quixeramobim (CE),"Não possui ligação com a rede geral - Fonte, nascente ou mina",2022,0.03,0.03
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2311306,Quixadá (CE),"Não possui ligação com a rede geral - Fonte, nascente ou mina",2022,0.06,0.06
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2301851,Banabuiú (CE),"Não possui ligação com a rede geral - Fonte, nascente ou mina",2022,-,
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2303931,Choró (CE),"Não possui ligação com a rede geral - Fonte, nascente ou mina",2022,0.15,0.15
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2305266,Ibaretama (CE),"Não possui ligação com a rede geral - Fonte, nascente ou mina",2022,0.25,0.25
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2302800,Canindé (CE),"Não possui ligação com a rede geral - Fonte, nascente ou mina",2022,0.31,0.31
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2308609,Monsenhor Tabosa (CE),"Não possui ligação com a rede geral - Fonte, nascente ou mina",2022,0.26,0.26
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2313203,Tamboril (CE),"Não possui ligação com a rede geral - Fonte, nascente ou mina",2022,0.10,0.1
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2310506,Pedra Branca (CE),"Não possui ligação com a rede geral - Fonte, nascente ou mina",2022,0.13,0.13
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2302404,Boa Viagem (CE),Não possui ligação com a rede geral - Carro-pipa,2022,1.99,1.99
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2307635,Madalena (CE),Não possui ligação com a rede geral - Carro-pipa,2022,6.46,6.46
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2311405,Quixeramobim (CE),Não possui ligação com a rede geral - Carro-pipa,2022,1.47,1.47
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2311306,Quixadá (CE),Não possui ligação com a rede geral - Carro-pipa,2022,4.45,4.45
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2301851,Banabuiú (CE),Não possui ligação com a rede geral - Carro-pipa,2022,5.85,5.85
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2303931,Choró (CE),Não possui ligação com a rede geral - Carro-pipa,2022,7.31,7.31
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2305266,Ibaretama (CE),Não possui ligação com a rede geral - Carro-pipa,2022,10.97,10.97
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2302800,Canindé (CE),Não possui ligação com a rede geral - Carro-pipa,2022,2.12,2.12
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2308609,Monsenhor Tabosa (CE),Não possui ligação com a rede geral - Carro-pipa,2022,9.20,9.2
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2313203,Tamboril (CE),Não possui ligação com a rede geral - Carro-pipa,2022,1.28,1.28
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2310506,Pedra Branca (CE),Não possui ligação com a rede geral - Carro-pipa,2022,9.40,9.4
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2302404,Boa Viagem (CE),Não possui ligação com a rede geral - Água da chuva armazenada,2022,1.63,1.63
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2307635,Madalena (CE),Não possui ligação com a rede geral - Água da chuva armazenada,2022,1.36,1.36
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2311405,Quixeramobim (CE),Não possui ligação com a rede geral - Água da chuva armazenada,2022,0.65,0.65
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2311306,Quixadá (CE),Não possui ligação com a rede geral - Água da chuva armazenada,2022,3.58,3.58
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2301851,Banabuiú (CE),Não possui ligação com a rede geral - Água da chuva armazenada,2022,1.07,1.07
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2303931,Choró (CE),Não possui ligação com a rede geral - Água da chuva armazenada,2022,12.76,12.76
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2305266,Ibaretama (CE),Não possui ligação com a rede geral - Água da chuva armazenada,2022,10.02,10.02
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2302800,Canindé (CE),Não possui ligação com a rede geral - Água da chuva armazenada,2022,2.49,2.49
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2308609,Monsenhor Tabosa (CE),Não possui ligação com a rede geral - Água da chuva armazenada,2022,1.73,1.73
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2313203,Tamboril (CE),Não possui ligação com a rede geral - Água da chuva armazenada,2022,2.34,2.34
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2310506,Pedra Branca (CE),Não possui ligação com a rede geral - Água da chuva armazenada,2022,5.39,5.39
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2302404,Boa Viagem (CE),"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés",2022,4.07,4.07
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2307635,Madalena (CE),"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés",2022,2.46,2.46
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2311405,Quixeramobim (CE),"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés",2022,3.82,3.82
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2311306,Quixadá (CE),"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés",2022,5.99,5.99
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2301851,Banabuiú (CE),"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés",2022,4.85,4.85
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2303931,Choró (CE),"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés",2022,10.43,10.43
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2305266,Ibaretama (CE),"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés",2022,18.65,18.65
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2302800,Canindé (CE),"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés",2022,7.64,7.64
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2308609,Monsenhor Tabosa (CE),"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés",2022,1.05,1.05
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2313203,Tamboril (CE),"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés",2022,0.92,0.92
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2310506,Pedra Branca (CE),"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés",2022,6.46,6.46
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2302404,Boa Viagem (CE),Não possui ligação com a rede geral - Outra,2022,0.86,0.86
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2307635,Madalena (CE),Não possui ligação com a rede geral - Outra,2022,1.11,1.11
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2311405,Quixeramobim (CE),Não possui ligação com a rede geral - Outra,2022,0.60,0.6
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2311306,Quixadá (CE),Não possui ligação com a rede geral - Outra,2022,0.89,0.89
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2301851,Banabuiú (CE),Não possui ligação com a rede geral - Outra,2022,0.48,0.48
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2303931,Choró (CE),Não possui ligação com a rede geral - Outra,2022,0.53,0.53
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2305266,Ibaretama (CE),Não possui ligação com a rede geral - Outra,2022,1.42,1.42
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2302800,Canindé (CE),Não possui ligação com a rede geral - Outra,2022,1.53,1.53
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2308609,Monsenhor Tabosa (CE),Não possui ligação com a rede geral - Outra,2022,1.77,1.77
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2313203,Tamboril (CE),Não possui ligação com a rede geral - Outra,2022,0.61,0.61
+6803,1000381,Domicílios particulares permanentes ocupados - percentual do total geral,Percentual,2310506,Pedra Branca (CE),Não possui ligação com a rede geral - Outra,2022,0.73,0.73
